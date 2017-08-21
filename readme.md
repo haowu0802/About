@@ -1,6 +1,10 @@
 What I do
 -
-I'm a __full stack__ developer focusing on back-end development. I'm experienced with three stacks : __JavaScript/NodeJS, Python/Django, and PHP/Yii__. (A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Software_Developer_Hao_Leon_Wu.pdf).)
+I'm a __full stack__ developer focusing on back-end development. I'm experienced with three stacks : 
+
+__JavaScript/NodeJS, Python/Django, and PHP/Yii__. 
+
+(A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Software_Developer_Hao_Leon_Wu.pdf).)
 
 I've worked with E-commerce giant, travel start-up, marketing data science, and I'm currently working with a few talented developers from my previous companies on our own ideas.
 
