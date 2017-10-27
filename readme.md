@@ -9,9 +9,13 @@ __NodeJS/Express, Python/Django, and PHP/Yii__.
 The levels of experience in different aspect of development:
 
 Senior back-end/data: __Node/Express, Python/Django/Flask, Apache-Airflow, PostgreSQL/MySQL, ORM, GraphQL, RESTful, NoSQL__
+
 __+__
+
 Intermediate front-end: __Vuejs, ECMAScript 6(Javascript/ES6), Jquery, HTML5/CSS3, Bootstrap__
+
 __+__
+
 Junior devOps: __Heroku, Docker, Linux__
 
 (A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Software_Developer_Hao_Leon_Wu.pdf).)
