@@ -1,14 +1,25 @@
 What I do
 -
-I'm a __full stack__ developer focusing on back-end development. I'm experienced with three stacks : 
+I'm a __full stack__ developer focusing on __back-end__ development. 
 
-__JavaScript/NodeJS, Python/Django, and PHP/Yii__. 
+I'm experienced with three stacks : 
+
+__NodeJS/Express, Python/Django, and PHP/Yii__. 
+
+The levels of experience in different aspect of development:
+
+Senior back-end/data: __Node/Express, Python/Django/Flask, Apache-Airflow, PostgreSQL/MySQL, ORM, GraphQL, RESTful, NoSQL__
+__+__
+Intermediate front-end: __Vuejs, ECMAScript 6(Javascript/ES6), Jquery, HTML5/CSS3, Bootstrap__
+__+__
+Junior devOps: __Heroku, Docker, Linux__
 
 (A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Software_Developer_Hao_Leon_Wu.pdf).)
 
+
 I've worked with E-commerce giant, travel start-up, marketing data science, and I'm currently working with a few talented developers from my previous companies on our own ideas.
 
-I've had the pleasure of being able to employ __Agile, TDD__ methodologies and work __remotely__ in most of my previous roles, inspired by Remote and Rework from 37signals. 
+I've had the pleasure of being able to employ __Agile, TDD__ methodologies and work remotely in most of my previous roles, inspired by Remote and Rework from 37signals. 
 
 Who I am
 -
