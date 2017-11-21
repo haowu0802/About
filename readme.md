@@ -1,39 +1,25 @@
 What I do
 -
-I'm a __full stack__ developer focusing on __back-end__ development. 
+I'm a senior software engineer focusing on __backend__ development and __data__ engineering. 
 
-I'm experienced with three stacks : 
+I use Python for building __data pipeline__, __RESTful APIs__ and backend of __MVC__ web applications.
 
-__NodeJS/Express, Python/Django, and PHP/Yii__. 
+I code with __Agile, TDD__ methodologies and work remotely in most of my previous roles. 
 
-The levels of experience in different aspect of development:
-
-| role | competence | skills |
-| --- | --- | --- |
-| back-end/data | senior | __Node/Express, Python/Django/Flask, Apache-Airflow, PostgreSQL/MySQL, ORM, GraphQL, RESTful, NoSQL__ |
-| front-end | intermediate | __Vuejs, ECMAScript 6(Javascript/ES6), Jquery, HTML5/CSS3, Bootstrap__ |
-| devOps | junior  | __Heroku, Docker, Linux__ |
-
-(A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Software_Developer_Hao_Leon_Wu.pdf).)
-
-
-I've worked with E-commerce giant, travel start-up, marketing data science, and I'm currently working with a few talented developers from my previous companies on our own ideas.
-
-I've had the pleasure of being able to employ __Agile, TDD__ methodologies and work remotely in most of my previous roles, inspired by Remote and Rework from 37signals. 
+A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Senior_Software_Engineer_Hao_Leon_Wu.pdf)
 
 Who I am
 -
-I enjoy working with small, family like teams, growing start-up and small business like nursing plants.
  
-I'm a life time learner and coder, I started coding since high school, with modding computer games. I'm a standard geek.
+I'm a life time learner, coder and a tech geek. I started coding since junior high (MS-DOS 6.22), with modding computer games. 
 
-I believe in moving forward in small steady steps, in life and in development, learn a little each day, fulfill one unittest at a time.
+I believe in moving forward in small steady steps, in life and in coding, I persistantly learn everyday.
 
-I became close friends with most of my previous team members, and we enjoy continue working on interesting things even after we no longer are in the same team. For me, the relationship don't stop at being just co-workers.
+I became close friends with most of my previous team members, and we enjoy continue working on interesting projects even after we no longer are in the same team. The relationship doesn't stop at being just co-workers.
 
 What I'm looking for
 -
-A team that is family like, small and strong, backing each other up, toward the same goal.
+A small team that is family like. A long term relationship.
 
 A place that I can contribute my effort and craft to help making a difference.
 
