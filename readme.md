@@ -31,7 +31,7 @@ Here are some of my experience that show a high correlation to the job functions
 ---
 |other relevant facts|
 |:---:|
-|started using python on and off since 2009, started using python full-time since 2014|
+|started using python on and off since 2009, started using python full scale since 2014|
 |python based tools used: Django/Restful, Flask, Apache-Airflow, SQLAlchemy, Graphene(GraphQL), NumPy, Pandas, Matplotlib|
 |started coding with OOP since 2006(in college), recently digging into Golang for its goroutine and composition based class design, with python3.6 async and goroutine, fast and powerful things can be done.|
 |deploy code to Heroku, use Docker for containerization, use Alpine images(minimal linux base images) with Python for applications.|
