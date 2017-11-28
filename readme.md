@@ -1,7 +1,7 @@
 For Ormuco
 -
 
-Here are some relevant experience that show a high correlation to the job functions described in the Senior Python role with Ormuco
+Here are some of my experience that show a high correlation to the job functions described in the Senior Python role with Ormuco
 
 ## 0.worked on a cloud based fault injection platform, in a large telecommunication/cloud service company(Huawei) 2017
 
@@ -10,8 +10,8 @@ Here are some relevant experience that show a high correlation to the job functi
 
 > __After__ I worked on it: split the system into independent applications including - 
 * a fault injection controller with Restful+GraphQL APIs as the central
-* a front-end portal for UI
-* distributed lightweighted computational applications for data processing and CPU heavy calculations
+* a front-end portal for UI that consumes the APIs
+* distributed lightweighted computational applications for data processing and CPU heavy calculations that comes from the controller
 * all containerized, free of installation/dependency/virtualenv hassle
 ### `restful API optimized with GraphQL(Graphene)`
 > replace some inefficient restful APIs that over/under fetch all the time with GraphQL endpoint to reduce wasteful data transfer
@@ -25,9 +25,9 @@ Here are some relevant experience that show a high correlation to the job functi
 >ETL tasks are containerized, but Airflow doesn't natively support operating containers, so I made a plugin to make it able to.
 ## 2.worked on APIs of a mid-large e-commerce company (Dangdang) 2012-2014
 ### `turn soap to rest`
-> __Before__: APIs that use raw SQL to CRUD in SOAP manner. Manual table alterations. Lengthy table design -> review -> approve process.
+> __Before__: API backend uses raw SQL to CRUD in SOAP manner. Manual table alterations. Lengthy table design -> review -> approve process.
 
-> __After__: Resources are identified, as objects, ORM applied, migration introduced. No more raw SQL, better performance, easier alterations with migration.
+> __After__: Resources are identified, as objects. ORM applied, migration introduced. No more raw SQL, better performance, easier alterations with migration.
 ---
 |other relevant facts|
 |:---:|
