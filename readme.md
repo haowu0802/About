@@ -1,29 +1,32 @@
 What I do
 -
-I'm a senior software engineer focusing on __backend__ development and __data__ engineering. 
+As a senior software engineer with focus on __backend__ development,  I've been building/deploying web services and applications since 2011. 
 
-I use Python for building __data pipeline__, __RESTful APIs__ and backend of __MVC__ web applications.
+I've used a number of mature and popular tools on my projects, such as __Python(Flask/Django), NodeJS, Golang, GraphQL, PostgreSQL, MongoDB, Kubernetes/Docker__. 
+
+See the [Wiki](https://github.com/haowu0802/About/wiki) page for details of my past projects. 
 
 I code with __Agile, TDD__ methodologies and work remotely in most of my previous roles. 
 
-A list of my skill set can be found in [my resume](https://github.com/haowu0802/About/blob/master/Resume_Senior_Software_Engineer_Hao_Leon_Wu.pdf)
+See [my resume](https://github.com/haowu0802/About/blob/master/Resume__Senior_Software_Engineer__Hao_Wu__2021.pdf) for details of these roles. 
+
 
 Who I am
 -
  
 I'm a life time learner, coder and a tech geek. I started coding since junior high (MS-DOS 6.22), with modding computer games. 
 
-I believe in moving forward in small steady steps, in life and in coding, I persistantly learn everyday.
+I believe in moving forward in small steady steps, in life and in coding.
 
-I became close friends with most of my previous team members, and we enjoy continue working on interesting projects even after we no longer are in the same team. The relationship doesn't stop at being just co-workers.
+My team members compliments my critical thinking and ability to break large/complex tasks down to manageable small bits.
 
-What I'm looking for
+What I enjoy
 -
-A small team that is family like. A long term relationship.
+Working in a team that is family like, building long term relationship with the team.
 
-A place that I can contribute my effort and craft to help making a difference.
+Contributing to projects that my effort and craft helps making a difference.
 
-A chance to share and learn from others, and improve the craft together.
+Sharing and learning with others, and improve the craft together.
 
 What others comment on my work
 -
