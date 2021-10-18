@@ -8,7 +8,7 @@ See the [Wiki](https://github.com/haowu0802/About/wiki) page for details of my p
 
 I code with __Agile, TDD__ methodologies and work remotely in most of my previous roles. 
 
-See [my resume](https://github.com/haowu0802/About/blob/master/Resume__Senior_Software_Engineer__Hao_Wu__2021.pdf) for details of these roles. 
+See my [resume](https://github.com/haowu0802/About/blob/master/Resume__Senior_Software_Engineer__Hao_Wu__2021.pdf) for details of these roles. 
 
 
 Who I am
