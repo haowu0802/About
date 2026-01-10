@@ -1,39 +1,28 @@
-What I do
--
-As a senior software engineer with focus on __backend__ development,  I've been building/deploying web services and applications since 2011. 
+# Hao Wu
 
-I've used a number of mature and popular tools on my projects, such as __Python(Flask/Django), NodeJS, Golang, GraphQL, PostgreSQL, MongoDB, Kubernetes/Docker__. 
+> **Software Architect. Reducing software entropy.**
 
-See the [Wiki](https://github.com/haowu0802/About/wiki) page for details of my past projects. 
+### About
 
-I code with __Agile, TDD__ methodologies and work remotely in most of my previous roles. 
+Senior US Backend Architect with 15 years of experience specializing in **Legacy System Modernization** and **Cloud Infrastructure**. 
 
-See my [resume](https://github.com/haowu0802/About/blob/master/Resume__Senior_Software_Engineer__Hao_Wu__2021.pdf) for details of these roles. 
+I focus on unblocking technical debt and architecting scalable systems for growth-stage companies.
 
+### Core Competencies
 
-Who I am
--
- 
-I'm a life time learner, coder and a tech geek. I started coding since junior high (MS-DOS 6.22), with modding computer games. 
+*   **Legacy Modernization:** Decoupling monoliths into microservices and migrating legacy stacks (e.g., Python 2 -> 3, JS -> TS) with zero downtime.
+*   **Cloud Architecture:** Designing event-driven serverless architectures (AWS Lambda) and containerized solutions (Kubernetes).
+*   **Engineering Standards:** Establishing strict type safety (TypeScript/Zod) and documentation standards for distributed teams.
 
-I believe in moving forward in small steady steps, in life and in coding.
+### Tech Stack
 
-My team members compliments my critical thinking and ability to break large/complex tasks down to manageable small bits.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-What I enjoy
--
-Working in a team that is family like, building long term relationship with the team.
+---
 
-Contributing to projects that my effort and craft helps making a difference.
-
-Sharing and learning with others, and improve the craft together.
-
-What others comment on my work
--
-Nicholas Johnson - Data Science Lead Developer - Corbis (Branded Entertainment Network)
-
->"I worked directly with Hao at the BEN Group data development/science team. While on our team Hao headed up the development of a critical ETL management system and deployed it to production, worked on data exploration and regression analysis projects, and also pushed our team to have improved development practices. Hao is a sharp, self-directed engineer that produces high quality, easy to understand software. He is also very business-oriented; he focuses on understanding the customer and delivering features that benefit the customer and ultimately the business."
-
-December 28, 2016, Nicholas managed Hao directly
- 
-Posted on https://www.linkedin.com/in/haowu0802/
+[LinkedIn](https://www.linkedin.com/in/haowu0802/)
