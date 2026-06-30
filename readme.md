@@ -11,8 +11,8 @@ I like work where correctness is verifiable: typed code, tested transformations,
 ### What I do
 
 * **Data engineering** — ELT pipelines, dimensional modeling, and orchestration; turning raw sources into clean, tested, queryable warehouses.
-* **Backend architecture** — decoupling monoliths into services and modernizing legacy stacks (Python 2 → 3, JS → TS) with zero downtime.
-* **Engineering standards** — type safety, executable data-quality tests, and documentation that lets distributed teams move fast without breaking things.
+* **Backend architecture** — decoupling monoliths into services and modernizing legacy stacks (Python 2 → 3, JS → TS, AWS SDK v2 → v3) with zero downtime.
+* **Engineering standards** — technical design docs, type safety, executable data-quality tests, and runbooks that let distributed teams move fast without breaking things.
 
 ### Selected project
 
